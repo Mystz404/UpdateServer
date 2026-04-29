@@ -1,0 +1,41 @@
+# .本机用户文件
+*.15854
+
+# Project build/output directories
+Listings/
+Objects/
+RTE/
+.vscode/
+Debug/
+.svn/
+build/
+build-*/
+Output/
+
+# Ignore per-user dotfile for this machine (e.g. .think for user 'think')
+*.uvguix.*
+*.uvoptx
+JLinkSettings.ini
+JLinkLog.txt
+EventRecorderStub.scvd
+*.user
+
+# Common binary/build artifacts (optional safe defaults)
+*.hex
+*.axf
+*.lnp
+*.sct
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.iex
+
+# Windows and editor temp files
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+~*
+*.swp

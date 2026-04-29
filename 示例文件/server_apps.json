@@ -1,0 +1,65 @@
+﻿{
+    "packagesDir": "D:\\UpdateServer\\packages",
+    "apps": [
+        {
+            "appId": "AppManager",
+            "appName": "AppManager",
+            "latestVersion": "1.0.0",
+            "packageFileName": "AppManagerSetup_1.0.0.exe",
+            "sha256": "",
+            "packageType": "exe",
+            "subDir": "",
+            "zipReplaceExeRecursively": false,
+            "requiredFiles": [],
+            "fullPackageFileName": ""
+        },
+        {
+            "appId": "cantest",
+            "appName": "CANTest",
+            "latestVersion": "1.0.0",
+            "packageFileName": "cantest.exe",
+            "sha256": "",
+            "packageType": "exe",
+            "subDir": "CANTest",
+            "zipReplaceExeRecursively": false,
+            "requiredFiles": [],
+            "fullPackageFileName": ""
+        },
+        {
+            "appId": "bctester",
+            "appName": "BCMU上位机",
+            "latestVersion": "1.0.0",
+            "packageFileName": "BCTester.exe",
+            "sha256": "",
+            "packageType": "exe",
+            "subDir": "",
+            "zipReplaceExeRecursively": false,
+            "requiredFiles": [],
+            "fullPackageFileName": ""
+        },
+        {
+            "appId": "bmsverup",
+            "appName": "BMS升级工具",
+            "latestVersion": "1.0.0",
+            "packageFileName": "BMSVerUp.exe",
+            "sha256": "",
+            "packageType": "exe",
+            "subDir": "",
+            "zipReplaceExeRecursively": false,
+            "requiredFiles": [],
+            "fullPackageFileName": ""
+        },
+        {
+            "appId": "bmutool",
+            "appName": "BMU上位机",
+            "latestVersion": "1.0.0",
+            "packageFileName": "BMU上位机.exe",
+            "sha256": "",
+            "packageType": "exe",
+            "subDir": "",
+            "zipReplaceExeRecursively": false,
+            "requiredFiles": [],
+            "fullPackageFileName": ""
+        }
+    ]
+}
